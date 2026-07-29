@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Resham1424/DSA_Preparation/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Resham1424/DSA_Preparation/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Resham1424/DSA_Preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Resham1424/DSA_Preparation/tree/master/1979-find-greatest-common-divisor-of-array) |
