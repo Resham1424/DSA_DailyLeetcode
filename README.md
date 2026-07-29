@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Resham1424/DSA_Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Resham1424/DSA_Preparation/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Resham1424/DSA_Preparation/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Resham1424/DSA_Preparation/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Resham1424/DSA_Preparation/tree/master/0075-sort-colors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Resham1424/DSA_Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Resham1424/DSA_Preparation/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Resham1424/DSA_Preparation/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Resham1424/DSA_Preparation/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Resham1424/DSA_Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
