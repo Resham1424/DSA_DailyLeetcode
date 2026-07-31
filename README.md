@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Resham1424/DSA_Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Resham1424/DSA_Preparation/tree/master/0027-remove-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Resham1424/DSA_Preparation/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Resham1424/DSA_Preparation/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Resham1424/DSA_Preparation/tree/master/3312-sorted-gcd-pair-queries) |
