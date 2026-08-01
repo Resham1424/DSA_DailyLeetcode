@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Resham1424/DSA_Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Resham1424/DSA_Preparation/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Resham1424/DSA_Preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Resham1424/DSA_Preparation/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Resham1424/DSA_Preparation/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Resham1424/DSA_Preparation/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Resham1424/DSA_Preparation/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/Resham1424/DSA_Preparation/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Resham1424/DSA_Preparation/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Resham1424/DSA_Preparation/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Resham1424/DSA_Preparation/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Resham1424/DSA_Preparation/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Resham1424/DSA_Preparation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/Resham1424/DSA_Preparation/tree/master/2469-convert-the-temperature) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Resham1424/DSA_Preparation/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Resham1424/DSA_Preparation/tree/master/0176-second-highest-salary) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
