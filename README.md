@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Resham1424/DSA_Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Resham1424/DSA_Preparation/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Resham1424/DSA_Preparation/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
