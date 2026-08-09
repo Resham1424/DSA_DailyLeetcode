@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Resham1424/DSA_Preparation/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/Resham1424/DSA_Preparation/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Resham1424/DSA_Preparation/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Resham1424/DSA_Preparation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Resham1424/DSA_Preparation/tree/master/0628-maximum-product-of-three-numbers) |
