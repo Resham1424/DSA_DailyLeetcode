@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Resham1424/DSA_Preparation/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Resham1424/DSA_Preparation/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Resham1424/DSA_Preparation/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Resham1424/DSA_Preparation/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Resham1424/DSA_Preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Resham1424/DSA_Preparation/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Resham1424/DSA_Preparation/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Resham1424/DSA_Preparation/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Resham1424/DSA_Preparation/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Resham1424/DSA_Preparation/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Resham1424/DSA_Preparation/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Resham1424/DSA_Preparation/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Resham1424/DSA_Preparation/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Resham1424/DSA_Preparation/tree/master/0049-group-anagrams) |
+| [0904-fruit-into-baskets](https://github.com/Resham1424/DSA_Preparation/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Resham1424/DSA_Preparation/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Resham1424/DSA_Preparation/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Resham1424/DSA_Preparation/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
